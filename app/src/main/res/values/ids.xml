@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="goCheckOut_btn" type="id">Check Out</item>
+    <item name="goDoQuery_btn" type="id">Do Query</item>
+</resources>
